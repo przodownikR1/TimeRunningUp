@@ -18,3 +18,6 @@ https://dzone.com/articles/the-12-factor-app-a-java-developers-perspective
     Transport cost is zero.
     The network is homogeneous.
 
+== Codebase – one codebase, multiple deploys
+
+== Dependencies 
